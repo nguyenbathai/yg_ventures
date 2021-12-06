@@ -6,6 +6,7 @@
     <title>YG Ventures</title>
     <link rel="preload" as="image" href="./image/logo.png">
     <link rel="icon" href="./image/logo.png" sizes="any" type="image/svg+xml">
+
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/all.css">
 
@@ -25,8 +26,13 @@
             <div data-aos="fade-up"
                  class="rounded-t-xl overflow-hidden bg-gradient-to-r from-light-blue-50 to-light-blue-100 p-10 aos-init aos-animate">
                 <div class="text-center">
-                    <a href="portfolio.php" style="height: 150px" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Portfolio </a>
-                    <a href="partner.php" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none" style="margin-left: 20px">Partner </a>
+                    <div class="button-portfolio-partner">
+                        <a href="portfolio.php" style="height: 150px" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Portfolio </a>
+                    </div>
+                    <div class="button-portfolio-partner">
+                        <a href="#" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Partner </a>
+
+                    </div>
                 </div>
             </div>
             <footer class="text-center flex justify-center space-x-4 fixed bottom-5 left-0 right-0">

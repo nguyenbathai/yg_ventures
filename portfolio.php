@@ -16,7 +16,7 @@
             <img id="logo_portfolio" class="" loading="lazy" src="./image/Venture1.png" alt="">
         </a>
         <div class="flex justify-center items-center py-20 overflow-hidden"
-             style="padding-top: 0rem !important;">
+             style="padding-top: 3rem !important;">
             <div class="container mx-auto px-0" >
                 <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >

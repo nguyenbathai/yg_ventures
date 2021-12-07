@@ -10,43 +10,15 @@
 .project{
     margin-top: 0px !important;
 }
-.button-portfolio-partner1{
+.button-portfolio-partner{
     float: left;
     width: 100%;
     margin-top: 35px;
 }
-.button-portfolio-partner2{
-    float: left;
-    width: 100%;
-    margin-top: 35px;
-}
-@media (min-width:512px) {
-    .button-portfolio-partner1{
+@media (min-width:430px) {
+    .button-portfolio-partner{
         float: left;
         width: 50%;
-        margin-left: 2%;
-        margin-top: 15px;
-    }
-    .button-portfolio-partner2{
-        float: left;
-        width: 50%;
-        margin-left: -2%;
-        margin-top: 15px;
-    }
-    .py-10{
-        padding: 0.5rem;
-    }
-}
-@media (min-width:768px) {
-    .button-portfolio-partner1{
-        float: left;
-        width: 50%;
-        margin-left: 7%;
-    }
-    .button-portfolio-partner2{
-        float: left;
-        width: 50%;
-        margin-left: -14%;
     }
 }
 

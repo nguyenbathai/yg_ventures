@@ -20,15 +20,15 @@
             <div class="container mx-auto px-0" >
                 <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
+                        <a href="#" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
                                 <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
+                                    <img src="./image/labs.png" style="width: 100%;margin: auto ">
                                 </div>
                             </button>
                         </a>
                     </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
+                    <!-- <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
                         <a href="https://casper.network/en/network/" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
                                 <div class="mb-2" >
@@ -54,7 +54,7 @@
                                 </div>
                             </button>
                         </a>
-                    </div>
+                    </div> -->
                     
                 </div>
                 <!-- <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">

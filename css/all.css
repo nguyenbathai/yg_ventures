@@ -36,9 +36,6 @@
     .p-10{
         padding: 0.7rem;
     }
-    .rounded-t-xl{
-        height: 150px;
-    }
 }
 @media (min-width:768px) {
     .button-portfolio-partner1{

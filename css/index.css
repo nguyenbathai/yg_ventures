@@ -394,7 +394,6 @@ select {
 }
 
 .rounded-t-xl {
-    height: 200px;
     border-top-left-radius: .75rem;
     border-top-right-radius: .75rem
 }

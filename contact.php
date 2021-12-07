@@ -9,7 +9,6 @@
 </a>
 <div id="myModal" class="modal">
 
-    <!-- Modal content -->
     <div class="modal-content">
         <span class="close">&times;</span>
         <p style="font-size: 23px;

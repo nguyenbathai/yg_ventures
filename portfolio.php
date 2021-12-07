@@ -16,7 +16,7 @@
             <img id="logo_portfolio" class="" loading="lazy" src="./image/Venture1.png" alt="">
         </a>
         <div class="flex justify-center items-center py-20 overflow-hidden"
-             style="padding-top: 3rem !important;">
+             style="padding-top: 0rem !important;">
             <div class="container mx-auto px-0" >
                 <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
@@ -29,52 +29,35 @@
                         </a>
                     </div>
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
+                        <a href="https://casper.network/en/network/" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
                                 <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
+                                    <img src="./image/casper.png" style="width: 100%;margin: auto ">
                                 </div>
                             </button>
                         </a>
                     </div>
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
+                        <a href="https://oasisprotocol.org/" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
                                 <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
+                                    <img src="./image/oasis.png" style="width: 100%;margin: auto ">
                                 </div>
                             </button>
                         </a>
                     </div>
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
+                        <a href="https://www.ceek.io/" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
                                 <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
+                                    <img src="./image/ceek.png" style="width: 100%;margin: auto ">
                                 </div>
                             </button>
                         </a>
                     </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
+                    
                 </div>
-                <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">
+                <!-- <div data-aos="fade-up" class="flex flex-wrap text-5xl md:text-5xl 2xl:text-8xl justify-center aos-init aos-animate">
                     <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
                         <a href="https://near.org/" target="_blank" >
                             <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
@@ -84,56 +67,10 @@
                             </button>
                         </a>
                     </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <!--                            <button class="bg-aquamarine b font-normal rounded-2xl hover:box-shadow-light transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">-->
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-                            </button>
-                        </a>
-                    </div>
-                    <div class="project w-1/2 sm:w-1/3 md:w-1/5 text-center mb-5 mt-5 md:mb-10 md:mt-10" >
-                        <a href="https://near.org/" target="_blank" >
-                            <!--                            <button class="bg-aquamarine b font-normal rounded-2xl hover:box-shadow-light transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">-->
-                            <button class="bg-aquamarine bg-white font-normal rounded-2xl transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none h-32 w-32 3xl:h-64 3xl:w-64 2xl:h52 2xl:w-52 item-3xl m-auto">
-                                <div class="mb-2" >
-                                    <img src="./image/near.png" style="width: 100%;margin: auto ">
-                                </div>
-
-                            </button>
-                        </a>
-                    </div>
+                    
+                    
                 </div>
-            </div>
+            </div> -->
 
         </div>
         <footer class="text-center flex justify-center space-x-4 fixed bottom-5 left-0 right-0" >

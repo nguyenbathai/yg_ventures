@@ -7,8 +7,8 @@
     <link rel="preload" as="image" href="./image/logo.png">
     <link rel="icon" href="./image/logo.png" sizes="any" type="image/svg+xml">
 
-    <link rel="stylesheet" href="./css/index.css">
-    <link rel="stylesheet" href="./css/all.css">
+    <link rel="stylesheet" href="./css/index.css?t=<?php echo  time();?>">
+    <link rel="stylesheet" href="./css/all.css?t=<?php echo  time();?>">
 
 </head>
 <body class="min-h-full overflow-x-hidden overflow-y-auto text-white font-serif background-logo" style="" data-aos-easing="ease"

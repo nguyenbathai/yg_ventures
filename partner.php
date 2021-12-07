@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YG Ventures</title>
     <link rel="icon" href="./image/logo.png" sizes="any" type="image/svg+xml">
-    <link rel="stylesheet" href="./css/index.css">
-    <link rel="stylesheet" href="./css/all.css">
+    <link rel="stylesheet" href="./css/index.css?t=<?php echo  time();?>">
+    <link rel="stylesheet" href="./css/all.css?t=<?php echo  time();?>">
 </head>
 <body class="min-h-full overflow-x-hidden overflow-y-auto text-white font-serif" data-aos-easing="ease"
       data-aos-duration="400" data-aos-delay="0" style="height: 100%">

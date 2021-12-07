@@ -35,11 +35,13 @@
                     </div>
                 </div>
             </div>
-            <footer class="text-center flex justify-center space-x-4 fixed bottom-5 left-0 right-0">
-                <?php include_once ("contact.php")?>
-            </footer>
+
         </div>
+
     </div>
+    <footer class="text-center justify-center space-x-4 fixed bottom-5 left-0 right-0">
+        <?php include_once ("contact.php")?>
+    </footer>
 </div>
 
 

@@ -27,10 +27,10 @@
                  class="rounded-t-xl overflow-hidden bg-gradient-to-r from-light-blue-50 to-light-blue-100 p-10 aos-init aos-animate">
                 <div class="text-center">
                     <div class="button-portfolio-partner1">
-                        <a href="portfolio.php" style="height: 150px" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-bold rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Portfolio </a>
+                        <a href="portfolio" style="height: 150px" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-bold rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Portfolio </a>
                     </div>
                     <div class="button-portfolio-partner2">
-                        <a href="partner.php" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-bold rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Partner </a>
+                        <a href="partner" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-bold rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Partner </a>
 
                     </div>
                 </div>

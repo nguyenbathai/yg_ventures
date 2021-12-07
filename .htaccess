@@ -1,0 +1,5 @@
+
+RewriteEngine on
+
+RewriteRule ^partner  partner.php [NC,L]
+RewriteRule ^portfolio  portfolio.php [NC,L]

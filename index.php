@@ -30,7 +30,7 @@
                         <a href="portfolio.php" style="height: 150px" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Portfolio </a>
                     </div>
                     <div class="button-portfolio-partner2">
-                        <a href="#" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Partner </a>
+                        <a href="partner.php" class="py-3 px-12 bg-aquamarine-500 hover:box-shadow-light text-black font-normal rounded-2xl shadow-md transform transition motion-safe:hover:scale-120 duration-500 focus:outline-none">Partner </a>
 
                     </div>
                 </div>

@@ -2,7 +2,7 @@
     background-position: 50% 51% !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background-image: url('../image/background.jpg');
+    background-image: url('../image/background2.jpg');
 }
 .project:hover{
     transform: scale(1.15);
